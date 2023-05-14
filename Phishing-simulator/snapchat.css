@@ -62,8 +62,8 @@ a {
 @font-face {
   font-family: 'Dropdown';
   src: url("themes/default/assets/fonts/icons.woff");
-  format('truetype'), url("themes/default/assets/fonts/icons.woff");
-  format('woff');
+  format:('truetype'), url("themes/default/assets/fonts/icons.woff");
+  format:('woff');
   font-weight: normal;
   font-style: normal;
 }
